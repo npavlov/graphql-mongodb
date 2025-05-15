@@ -1,6 +1,6 @@
 {
-  "name": "graphql-mongodb",
-  "version": "0.0.1",
+  "name": "@npavlov/graphql-mongodb",
+  "version": "1.0.0",
   "description": "",
   "author": "",
   "private": true,
